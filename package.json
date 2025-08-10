@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.19",
+    "prettier": "^3.5.3",
+    "solc": "^0.8.20"
+  },
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.9.2",
+    "@openzeppelin/contracts": "^5.2.0",
+    "@openzeppelin/hardhat-upgrades": "^3.9.0",
+    "@solana/web3.js": "^1.98.0",
+    "chai": "^4.3.8",
+    "glob": "^11.0.1",
+    "semver": "^7.7.1"
+  }
+}
